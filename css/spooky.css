@@ -8,6 +8,10 @@
 	src: url("../spooky/font/seurat-pro.otf");
 }
 
+h1 {
+  font-size: 40px;
+}
+
 body {
   background-color: #53149c;
 }
@@ -35,7 +39,7 @@ body {
 	  background-position: 0 0;
 	}
 	100% {
-	  background-position: 136px 136px;
+	  background-position: 40000px 40000px;
 	}
 }
 
