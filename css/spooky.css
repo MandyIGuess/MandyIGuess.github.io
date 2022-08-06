@@ -8,6 +8,10 @@
 	src: url("../spooky/font/seurat-pro.otf");
 }
 
+body {
+  background-color: #53149c;
+}
+
 .acolor {
 	color: #ff00ff;
 }
