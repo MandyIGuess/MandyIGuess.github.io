@@ -45,8 +45,8 @@ body {
 
 .diamonds {
 	background-image: url("../spooky/img/diamonds.svg");
-	top: -10;
-	left: -10;
-	width: 50%;
+	top: 0;
+	left: 0;
+	width: 100%;
 	animation: checker 5s linear infinite;
 }
