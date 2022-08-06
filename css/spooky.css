@@ -39,7 +39,7 @@ body {
 	  background-position: 0 0;
 	}
 	100% {
-	  background-position: 40000px 40000px;
+	  background-position: 1360px 136px;
 	}
 }
 
@@ -47,6 +47,6 @@ body {
 	background-image: url("../spooky/img/diamonds.svg");
 	top: -10;
 	left: -10;
-	width: 100%;
+	width: 5000%;
 	animation: checker 5s linear infinite;
 }
