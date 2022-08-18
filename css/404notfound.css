@@ -1,0 +1,13 @@
+@font-face {
+	font-family: nsmbu-font;
+	src: url("../font/nsmbu-font.ttf");
+}
+
+@font-face {
+	font-family: comic;
+	src: url("../font/comic.ttf");
+}
+
+#grad {
+  background-image: linear-gradient(#ff0000, #1c0a00);
+}
