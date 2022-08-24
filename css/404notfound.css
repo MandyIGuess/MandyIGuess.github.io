@@ -1,9 +1,4 @@
 @font-face {
-	font-family: nsmbu-font;
-	src: url("../font/nsmbu-font.ttf");
-}
-
-@font-face {
 	font-family: terminal;
-	src: url("../font/dosapp.fon");
+	src: url("../font/dosapp.ttf");
 }
