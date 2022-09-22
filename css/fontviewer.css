@@ -1,0 +1,34 @@
+@font-face {
+	font-family: corbel;
+	src: url("../font/CORBEL.TTF");
+}
+
+@font-face {
+	font-family: coure;
+	src: url("../font/coure.fon");
+}
+
+@font-face {
+	font-family: dosapp;
+	src: url("../font/dosapp.ttf");
+}
+
+@font-face {
+	font-family: ebrima;
+	src: url("../font/ebrima.ttf");
+}
+
+@font-face {
+	font-family: ebrimabd;
+	src: url("../font/ebrimabd.ttf");
+}
+
+@font-face {
+	font-family: seurat-pro;
+	src: url("../font/seurat-pro.otf");
+}
+
+@font-face {
+	font-family: vgasys;
+	src: url("../font/vgasys.fon");
+}
