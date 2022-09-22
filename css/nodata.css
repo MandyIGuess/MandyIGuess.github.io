@@ -1,0 +1,13 @@
+@font-face {
+	font-family: nsmbu-font;
+	src: url("../font/nsmbu-font.ttf");
+}
+
+@font-face {
+	font-family: seurat-pro;
+	src: url("../font/seurat-pro.otf");
+}
+
+body {
+  background-image: url("../nsmbwii/img/4x4-DiamondsNoDATA.png");
+}
