@@ -1,4 +1,9 @@
 @font-face {
-	font-family: terminal;
-	src: url("../font/dosapp.ttf");
+	font-family: ebrima;
+	src: url("../font/ebrima.ttf");
+}
+
+@font-face {
+	font-family: corbel;
+	src: url("../font/CORBEL.TTF");
 }
