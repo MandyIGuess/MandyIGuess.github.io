@@ -1,3 +1,7 @@
+body {
+  background-image: url('../img/the x.png');
+}
+
 @font-face {
 	font-family: ebrima;
 	src: url("../font/ebrima.ttf");
@@ -6,8 +10,4 @@
 @font-face {
 	font-family: corbel;
 	src: url("../font/CORBEL.TTF");
-}
-
-body {
-  background-image: url('../img/the x.png');
 }
