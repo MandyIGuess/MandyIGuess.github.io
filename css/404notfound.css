@@ -7,3 +7,7 @@
 	font-family: corbel;
 	src: url("../font/CORBEL.TTF");
 }
+
+body {
+  background-image: url('../img/the x.png');
+}
