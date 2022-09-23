@@ -1,6 +1,6 @@
 body {
   background-image: url('../img/the x.png');
-  position: 45;
+  transform: rotate(36deg);
 }
 
 @font-face {
