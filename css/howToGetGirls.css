@@ -1,0 +1,27 @@
+/* For the "How To Get Girls" page */
+@font-face { font-family: terminalFont; src: url('../font/modeSeven.ttf'); } 
+body {
+    background-color: black;
+    font-family: terminalFont;
+    color: rgb(201, 201, 201);
+}
+div.titleWindow {
+    font-family: terminalFont;
+    color: rgb(201, 201, 201);
+    text-align: center;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+div.padding {
+    padding: 360px;
+}
+a {
+    color: #ababab;
+    text-decoration: none;
+}
+a:hover {
+    color:#898989; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
