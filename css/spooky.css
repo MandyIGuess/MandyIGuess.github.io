@@ -1,5 +1,6 @@
-
+/* Spooky Adventure page(s) */
 body {
+	overflow: hidden;
 	background-image: url('../spooky/img/4x4-Diamonds.png');
 	background-size: 25%;
 }
@@ -10,15 +11,13 @@ a:link, a:visited {
 	padding: 10px 20px;
 	text-align: center;
 	text-decoration: none;
+	text-shadow: 7px 4px #00000055;
 	display: inline-block;
-	width: 200px;
+	width: 300px;
 }
 a:hover, a:active {
 	background-color: #63369b;
 	color: white;
-}
-div.padding {
-	padding: 10px;
 }
 div.titlebar {
 	width: 100%;
@@ -29,24 +28,25 @@ div.titlebar {
 	padding: 15px;
 	background-image: linear-gradient(#3C1851ff, #47207Dcc);
 	box-shadow: 10px 10px 5px #00002275;
-	font-family: seurat-pro;
+	font-family: nsmbu-font;
 	font-size: 32px;
 	color: white;
-	text-shadow: 14px 8px #000000;
+	text-shadow: 14px 8px #00000055;
 	text-align: center;
 }
 div.spookyIsDead {
 	text-align: center;
 	margin: auto;
 	width: 800px;
-	height: 535px;
+	height: 725px;
 	background-image: linear-gradient(#3C1851cc, #4D296277, #3C1851cc);
 	box-shadow: 10px 10px 5px #00002275;
 	font-family: seurat-pro;
 	color: silver;
 }
 div.footer {
-	font-family:seurat-pro;
+	font-family: ebrimabd;
+	font-size: 14px;
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
@@ -59,8 +59,9 @@ div.footer {
 	bottom: 0px;
 	box-shadow: 10px -10px 5px #00002275;
 }
-@font-face { font-family: nsmbu-font; src: url('nsmbu-font.ttf'); }
-@font-face { font-family: seurat-pro; src: url('seurat-pro.otf'); }
+@font-face { font-family: nsmbu-font; src: url('../font/nsmbu-font.ttf'); }
+@font-face { font-family: seurat-pro; src: url('../font/seurat-pro.otf'); }
+@font-face { font-family: ebrimabd; src: url('../font/ebrimabd.ttf'); }
 h1 {
 	font-family: nsmbu-font;
 	text-shadow: 14px 8px #00000055;
