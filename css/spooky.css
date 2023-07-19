@@ -64,7 +64,7 @@ div.footer {
 @font-face { font-family: ebrimabd; src: url('../font/ebrimabd.ttf'); }
 h1 {
 	font-family: nsmbu-font;
-	text-shadow: 14px 8px #00000055;
+	/*text-shadow: 14px 8px #00000055;*/
 }
 h2 {
 	font-family: seurat-pro;
