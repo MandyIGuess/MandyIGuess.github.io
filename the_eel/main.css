@@ -1,0 +1,14 @@
+@font-face {
+  font-family: nsmbu;
+  src: url('./font/nsmbu-font.ttf');
+}
+
+.body {
+  background-color: black;
+  text-align: center;
+}
+
+.h1 {
+  color: white;
+  font-family: nsmbu;
+}
