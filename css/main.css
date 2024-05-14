@@ -29,7 +29,7 @@ a.nsmbwii {
 }
 body {
     text-align: center;
-    background-image: linear-gradient(red, #ff00ff);
+    background-image: linear-gradient(#cc0000, #cc00cc);
     background-size: cover;
     background-repeat: no-repeat;
 }
